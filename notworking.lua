@@ -1,2 +1,2 @@
-list = {"solara"}
+list = "solara "
 return list
