@@ -1,5 +1,4 @@
 blacklisted = {
-"5713037058:09/18/2024",
 }
 
 return blacklisted
