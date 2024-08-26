@@ -1,2 +1,2 @@
-list = "solara "
-return list
+thelist = "solara "
+return thelist
