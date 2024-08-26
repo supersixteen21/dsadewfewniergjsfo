@@ -1,8 +1,8 @@
-list = {
+thelist = {
   "Off me kid",
   "Sit down",
   "Mismatch",
   "Why even try LOL",
-  "Scoreboard"
+  "Scoreboard",
 }
-return list
+return thelist
