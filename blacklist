@@ -1,4 +1,5 @@
 blacklisted = {
+"7411077841:10/04/2025",
 }
 
 return blacklisted
